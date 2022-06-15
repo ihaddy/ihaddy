@@ -1,6 +1,10 @@
 
-# 💫About Me :
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 
+# 💫About Me :
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on My Blog, My Portfolio, and my latest Web App: WhatToPlay!
 
 - 🌱 I’m currently learning Data science, Arch linux, more Javascript, and more ways to play with kubernetes! 
@@ -19,6 +23,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ihaddy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ihaddy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+**Note that the programming language breakdown only shows what I publically commit to this github profile!**
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ihaddy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -27,4 +32,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ihaddy&icon=0&color=0)](https://visitcount.itsvg.in)
-
+**Tracking viewers since widget added**
