@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on My Blog, My Portfolio, and my latest Web App: WhatToPlay!
 
-- 🌱 I’m currently learning Data science, Arch linux, more Javascript, and more ways to play with kubernetes! 
+- 🌱 I’m currently learning Pytorch for more indepth Data science, Arch linux, more Javascript, and more ways to play with kubernetes! 
 
 - 👯 I’m looking to collaborate on React and Javascript based projects, python based projects 
 
