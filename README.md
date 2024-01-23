@@ -27,7 +27,7 @@ AI/ML Full Stack Web-Developer and DevOps Engineer
 
 **Note that the programming language breakdown only shows what I publically commit to this github profile!**
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ihaddy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ihaddy&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=Commits,Experience,Repositories)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
